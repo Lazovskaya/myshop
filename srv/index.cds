@@ -153,7 +153,8 @@ annotate CatalogService.Products with @(
     ]
  
 );
- 
+
+
 annotate CatalogService.Products with {
     ID @title: 'ID';
     name @title: 'Title';
